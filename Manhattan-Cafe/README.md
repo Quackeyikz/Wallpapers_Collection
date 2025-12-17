@@ -1,28 +1,28 @@
 # Manhattan Cafe
 
 Curious Chibi Cafe
-![Curious Chibi Cafe](Curious Chibi Cafe.png)
+![Curious Chibi Cafe](/Curious Chibi Cafe.png)
 
 A Cup of Coffee
-![A Cup of Coffee](A Cup of Coffee.png)
+![A Cup of Coffee](/A Cup of Coffee.png)
 
 Manhattan Cafe When She Left Her Drink Lying Around
-![Manhattan Cafe When She Left Her Drink Lying Around](Manhattan Cafe When She Left Her Drink Lying Around.png)
+![Manhattan Cafe When She Left Her Drink Lying Around](/Manhattan Cafe When She Left Her Drink Lying Around.png)
 
 Manhattan Cafe's Favorite Drink - Of Course It's Coffee
-![Manhattan Cafe's Favorite Drink - Of Course It's Coffee](Manhattan Cafe's Favorite Drink - Of Course It's Coffee.png)
+![Manhattan Cafe's Favorite Drink - Of Course It's Coffee](/Manhattan Cafe's Favorite Drink - Of Course It's Coffee.png)
 
 Manhattan Coffee
-![Manhattan Coffee](Manhattan Coffee.png)
+![Manhattan Coffee](/Manhattan Coffee.png)
 
 Three Cups of Coffee
-![Three Cups of Coffee](Three Cups of Coffee.png)
+![Three Cups of Coffee](/Three Cups of Coffee.png)
 
 Signature Race Wear - Manhattan Cafe
-![Signature Race Wear - Manhattan Cafe](Signature Race Wear - Manhattan Cafe)
+![Signature Race Wear - Manhattan Cafe](/Signature Race Wear - Manhattan Cafe)
 
 Manhattan Cafe Winter Scarf - Credited
-![Manhattan Cafe Winter Scarf - Credited](Manhattan Cafe Winter Scarf - Credited.png)
+![Manhattan Cafe Winter Scarf - Credited](/Manhattan Cafe Winter Scarf - Credited.png)
 
 C A F E
 ![C A F E](C A F E.png)
